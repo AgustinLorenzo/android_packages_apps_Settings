@@ -359,4 +359,8 @@
     <!-- Touchscreen hovering -->
     <string name="touchscreen_hovering_title">Touchscreen hovering</string>
     <string name="touchscreen_hovering_summary">Allows you to hover the screen like a mouse in web browsers, remote desktops, etc</string>
+
+    <!-- Battery stats -->
+    <string name="menu_stats_reset">Reset stats</string>
+    <string name="reset_stats_msg">Battery history stats are going to be reset</string>
 </resources>
