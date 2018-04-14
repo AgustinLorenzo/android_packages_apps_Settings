@@ -363,4 +363,7 @@
     <!-- Battery stats -->
     <string name="menu_stats_reset">Reset stats</string>
     <string name="reset_stats_msg">Battery history stats are going to be reset</string>
+
+    <!-- AOSiP device maintainer name -->
+    <string name="device_maintainer">Maintainer</string>
 </resources>
